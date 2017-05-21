@@ -5,6 +5,7 @@
  
 long long calaulate_pow(int ,int );
 
+//make sure the credit number
 int main()
 {
     bool flag_Amex,flag_MasterCard,flag_Visa,Flag;
